@@ -27,8 +27,8 @@ PHP: Utilizado para processar os dados do formulário e calcular o salário fina
 GitHub: Utilizado como repositório 
 
 ## Fontes Utilizadas 
-ChatGPT
-(https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-1-containers#google_vignette)
-(https://cursos.alura.com.br/forum/topico-para-que-serve-especificadamente-a-funcao-foreach-222477)
-(https://www.php.net/manual/pt_BR/function.array-sum.php)
+ChatGPT  
+(https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-1-containers#google_vignette)  
+(https://cursos.alura.com.br/forum/topico-para-que-serve-especificadamente-a-funcao-foreach-222477)  
+(https://www.php.net/manual/pt_BR/function.array-sum.php)  
 
