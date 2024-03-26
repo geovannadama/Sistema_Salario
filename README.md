@@ -40,6 +40,6 @@ ChatGPT
 
 ## Autores 
 Geovanna Dama   
-Davi Vellone   
+Davi Vellone(https://github.com/Vellone07)     
 Emily pessoa(https://github.com/emilypessoa)    
 
