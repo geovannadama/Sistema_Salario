@@ -1,6 +1,12 @@
 # Calculadora de Salário
 Esta é uma simples calculadora de salário baseada em metas de vendas. Permite calcular o salário final de um funcionário com base em suas metas semanais e mensais de vendas.
 
+## Contexto 
+A empresa na qual Fabinho e Renata trabalhavam passou por uma reformulação no negócio. Eles contrataram uma consultoria do SEBRAE e durante alguns meses, houveram muitas mudanças significativas.
+Uma delas, foi a implantação de um sistema de meritocracia. Gradativamente a empresa foi reestruturando o plano de cargos e salários com alguns benefícios.  
+Para os(as) vendedores(as), essa reformulação foi ainda mais impactante, uma vez que os salários desses profissionais era mais baixo e não atraia interessados. Na loja haviam 5 vendedores(as). Entre eles, 3 mulheres e 2 homens. Além de vender dentro da loja, eles também faziam vendas externas, o que rendia um dinheiro extra, através de uma comissão paga em separado do salário final. Todos(as) queriam vender externamente, mas era escolhido aquele(a) que tinha melhor desempenho nas vendas. 
+O Sistema de cálculo dos salários dos(as) vendedores(as) foi utilizada como tarefa no processo seletivo para a pessoa que ocuparia o cargo de assistente administrativo. 
+
 ## Funcionalidades
 O usuário insere o nome do funcionário, a meta semanal de vendas em reais (R$) e a meta mensal de vendas em reais (R$).
 Após submeter o formulário, a calculadora processa os dados e exibe o salário final do funcionário com base nas seguintes regras:
@@ -31,4 +37,9 @@ ChatGPT
 (https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-1-containers#google_vignette)  
 (https://cursos.alura.com.br/forum/topico-para-que-serve-especificadamente-a-funcao-foreach-222477)  
 (https://www.php.net/manual/pt_BR/function.array-sum.php)  
+
+## Autores 
+Geovanna Dama 
+Davi Vellone 
+Emily pessoa 
 
