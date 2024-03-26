@@ -39,7 +39,7 @@ ChatGPT
 (https://www.php.net/manual/pt_BR/function.array-sum.php)  
 
 ## Autores 
-Geovanna Dama 
-Davi Vellone 
-Emily pessoa 
+Geovanna Dama   
+Davi Vellone   
+Emily pessoa   
 
